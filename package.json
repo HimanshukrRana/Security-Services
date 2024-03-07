@@ -1,0 +1,31 @@
+{
+  "name": "saviour",
+  "version": "5.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "formik": "^2.2.9",
+    "next": "^13.0.4",
+    "next-seo": "^5.15.0",
+    "nodemailer": "^6.8.0",
+    "rc-slider": "^10.0.0",
+    "react": "^18.2.0",
+    "react-countup": "^6.2.0",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.4.0",
+    "react-perfect-scrollbar": "^1.5.8",
+    "react-visibility-sensor": "^5.1.1",
+    "swiper": "^8.4.4",
+    "wowjs": "^1.1.3",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "eslint": "8.13.0",
+    "eslint-config-next": "^13.0.4"
+  }
+}
